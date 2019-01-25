@@ -7,7 +7,7 @@ for i in range(1,101):
         else:
             flag = False
     if flag == False and i!=1:
-        print("prime") 
+        print("Prime") 
     else:
         fizz = i%3
         buzz = i%5
